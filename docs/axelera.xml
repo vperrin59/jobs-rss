@@ -6,72 +6,87 @@
     <description>Latest job offers at Axelera AI</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Jun 2025 12:38:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jun 2025 12:57:20 +0000</lastBuildDate>
     <item>
       <title>Senior Engineer - Silicon Physical Design (Italy based)</title>
       <link>https://axelera.ai/careers</link>
       <description>FullTime</description>
+      <guid isPermaLink="false">318743ba8dcdc74e11decfc07cc114e2</guid>
     </item>
     <item>
       <title>Principal DFT Engineer</title>
       <link>https://axelera.ai/careers</link>
       <description>FullTime</description>
+      <guid isPermaLink="false">9306d8c0a4866a83791be956ad0791df</guid>
     </item>
     <item>
       <title>Vice President of Sales - North America</title>
       <link>https://axelera.ai/careers</link>
+      <guid isPermaLink="false">e76a9ae6d2e41287f29270afc50f4f9f</guid>
     </item>
     <item>
       <title>US Field Application Engineer (West Coast/Midwest/Great Lakes)</title>
       <link>https://axelera.ai/careers</link>
+      <guid isPermaLink="false">4a0677e82e7379e89cad1681d8ed0c47</guid>
     </item>
     <item>
       <title>Sales Manager/Director - North America</title>
       <link>https://axelera.ai/careers</link>
       <description>FullTime</description>
+      <guid isPermaLink="false">aa7c3caf4f510875233645965088a075</guid>
     </item>
     <item>
       <title>Senior R&amp;D Engineer - System Architecture (Italy based)</title>
       <link>https://axelera.ai/careers</link>
+      <guid isPermaLink="false">43bd6e2fe85ae91ca05a33c1a60a6f2f</guid>
     </item>
     <item>
       <title>Senior Engineer – Multimodal AI Model Development Research</title>
       <link>https://axelera.ai/careers</link>
+      <guid isPermaLink="false">6e077433b7f4f2c2100c73804cc4d75b</guid>
     </item>
     <item>
       <title>Senior Engineer – AI Model Compression Research</title>
       <link>https://axelera.ai/careers</link>
+      <guid isPermaLink="false">4b8a3adde514abd512044442e6f03b8a</guid>
     </item>
     <item>
       <title>Senior Engineer – AI Data Generation &amp; Optimization Research</title>
       <link>https://axelera.ai/careers</link>
+      <guid isPermaLink="false">4f792b5e51b2a6a2deffe8b91a5cca2c</guid>
     </item>
     <item>
       <title>Senior Engineer - Computing Architecture</title>
       <link>https://axelera.ai/careers</link>
       <description>FullTime</description>
+      <guid isPermaLink="false">711c4015c680b0da56be7f51f932448c</guid>
     </item>
     <item>
       <title>Distinguished Engineer - Machine Learning (VP level)</title>
       <link>https://axelera.ai/careers</link>
       <description>FullTime</description>
+      <guid isPermaLink="false">5c67b614f231f45734cfe05b291c1299</guid>
     </item>
     <item>
       <title>Webstore Lead</title>
       <link>https://axelera.ai/careers</link>
+      <guid isPermaLink="false">df6a7f4d18991b6d57253e31023f555f</guid>
     </item>
     <item>
       <title>HR Administrator (freelance/contractor; 16-24 hrs/pw)</title>
       <link>https://axelera.ai/careers</link>
+      <guid isPermaLink="false">5b8ee071c54499339279cecdb84ce3d7</guid>
     </item>
     <item>
       <title>Director - HR Business Partner</title>
       <link>https://axelera.ai/careers</link>
+      <guid isPermaLink="false">ab56e8161dc2dff1c35271eb369e74ac</guid>
     </item>
     <item>
       <title>Internship - AI Embedded Software Engineer (Italy Based)</title>
       <link>https://axelera.ai/careers</link>
       <description>FullTime</description>
+      <guid isPermaLink="false">5946b8777895627b02d2e8c1de13b049</guid>
     </item>
   </channel>
 </rss>
