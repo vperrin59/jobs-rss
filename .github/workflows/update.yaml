@@ -21,7 +21,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Generate feed
-        run: python feed_generator.py
+        run: cd src && python feed_generator.py
 
       - name: Commit and push
         run: |
