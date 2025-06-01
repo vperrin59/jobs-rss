@@ -2,6 +2,7 @@ import requests
 from lxml import html
 from feedgen.feed import FeedGenerator
 from urllib.parse import urljoin
+import hashlib
 
 URL = 'https://axelera.ai/careers'
 
@@ -27,10 +28,14 @@ for h5 in titles:
     description_parts = h5.xpath('./following-sibling::p[1]/text()')
     description = description_parts[0].strip() if description_parts else ''
 
+    # Use job title as part of GUID (or hash for safety)
+    unique_id = hashlib.md5(title_text.encode('utf-8')).hexdigest()
+
     fe = fg.add_entry()
     fe.title(title_text)
     fe.link(href=link)
     fe.description(description)
+    fe.guid(unique_id, permalink=False)
 
 # Output RSS
 rss_feed = fg.rss_str(pretty=True)
@@ -43,7 +48,7 @@ def get_git_root() -> Path:
     return Path(subprocess.check_output(["git", "rev-parse", "--show-toplevel"]).decode("utf-8").strip())
 
 git_root = get_git_root()
-rss_path = git_root / "feeds" / "axelera.xml"
+rss_path = git_root / "docs" / "axelera.xml"
 
 with open(rss_path, "wb") as f:
     f.write(rss_feed)
