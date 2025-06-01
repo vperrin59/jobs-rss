@@ -5,6 +5,9 @@ on:
     - cron: '0 6 * * *'  # every day at 06:00 UTC
   workflow_dispatch:     # allow manual trigger
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -27,4 +30,5 @@ jobs:
         run: |
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/vperrin59/jobs-rss.git
           make deploy_feeds
