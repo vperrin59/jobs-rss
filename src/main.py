@@ -35,3 +35,15 @@ for h5 in titles:
 # Output RSS
 rss_feed = fg.rss_str(pretty=True)
 print(rss_feed.decode())
+
+import subprocess
+from pathlib import Path
+
+def get_git_root() -> Path:
+    return Path(subprocess.check_output(["git", "rev-parse", "--show-toplevel"]).decode("utf-8").strip())
+
+git_root = get_git_root()
+rss_path = git_root / "feeds" / "axelera.xml"
+
+with open(rss_path, "wb") as f:
+    f.write(rss_feed)
