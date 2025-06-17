@@ -6,7 +6,7 @@
     <description>Latest job offers at Axelera AI</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Jun 2025 06:25:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jun 2025 06:23:57 +0000</lastBuildDate>
     <item>
       <title>Senior Engineer - Silicon Physical Design (Italy based)</title>
       <link>https://axelera.ai/careers</link>
@@ -25,16 +25,6 @@
       <guid isPermaLink="false">e76a9ae6d2e41287f29270afc50f4f9f</guid>
     </item>
     <item>
-      <title>US Field Application Engineer (West Coast/Midwest/Great Lakes)</title>
-      <link>https://axelera.ai/careers</link>
-      <guid isPermaLink="false">4a0677e82e7379e89cad1681d8ed0c47</guid>
-    </item>
-    <item>
-      <title>Director of Sales - West Coast / Bay Area</title>
-      <link>https://axelera.ai/careers</link>
-      <guid isPermaLink="false">11196e3ae78d9ab6baeddf3b60d9f6de</guid>
-    </item>
-    <item>
       <title>Director of Sales - APAC</title>
       <link>https://axelera.ai/careers</link>
       <description>FullTime</description>
@@ -44,6 +34,11 @@
       <title>Senior R&amp;D Engineer - System Architecture (Italy based)</title>
       <link>https://axelera.ai/careers</link>
       <guid isPermaLink="false">43bd6e2fe85ae91ca05a33c1a60a6f2f</guid>
+    </item>
+    <item>
+      <title>Director of Sales - West Coast / Bay Area</title>
+      <link>https://axelera.ai/careers</link>
+      <guid isPermaLink="false">11196e3ae78d9ab6baeddf3b60d9f6de</guid>
     </item>
     <item>
       <title>Senior Engineer – Multimodal AI Model Development Research</title>
@@ -66,21 +61,26 @@
       <guid isPermaLink="false">4f792b5e51b2a6a2deffe8b91a5cca2c</guid>
     </item>
     <item>
-      <title>Distinguished Engineer - Machine Learning (VP level)</title>
-      <link>https://axelera.ai/careers</link>
-      <description>FullTime</description>
-      <guid isPermaLink="false">5c67b614f231f45734cfe05b291c1299</guid>
-    </item>
-    <item>
       <title>Public Funding &amp; Government Engagement Specialist (Dutch speaker)</title>
       <link>https://axelera.ai/careers</link>
       <description>FullTime</description>
       <guid isPermaLink="false">d4210f40281e9a1b73bf04c00f572301</guid>
     </item>
     <item>
+      <title>Logistics &amp; Trade Compliance Specialist (freelance/contractor; 6-month engagement)</title>
+      <link>https://axelera.ai/careers</link>
+      <guid isPermaLink="false">486bf94e348d8fb0f17b64d9fbd16970</guid>
+    </item>
+    <item>
       <title>HR Administrator (freelance/contractor; 16-24 hrs/pw)</title>
       <link>https://axelera.ai/careers</link>
       <guid isPermaLink="false">5b8ee071c54499339279cecdb84ce3d7</guid>
+    </item>
+    <item>
+      <title>Expert - Electronics Category Management</title>
+      <link>https://axelera.ai/careers</link>
+      <description>FullTime</description>
+      <guid isPermaLink="false">148c3bcb9a19d4e61d9dc876f2cd94c8</guid>
     </item>
     <item>
       <title>Director - HR Business Partner</title>
