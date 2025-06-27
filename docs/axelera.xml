@@ -6,7 +6,7 @@
     <description>Latest job offers at Axelera AI</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Jun 2025 06:24:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jun 2025 06:24:32 +0000</lastBuildDate>
     <item>
       <title>Senior Engineer - Silicon Physical Design (Italy based)</title>
       <link>https://axelera.ai/careers</link>
@@ -25,12 +25,6 @@
       <guid isPermaLink="false">e76a9ae6d2e41287f29270afc50f4f9f</guid>
     </item>
     <item>
-      <title>Director of Sales - APAC</title>
-      <link>https://axelera.ai/careers</link>
-      <description>FullTime</description>
-      <guid isPermaLink="false">79d3ce64a71ab0c1c948e37a313bdbc2</guid>
-    </item>
-    <item>
       <title>Senior R&amp;D Engineer - System Architecture (Italy based)</title>
       <link>https://axelera.ai/careers</link>
       <guid isPermaLink="false">43bd6e2fe85ae91ca05a33c1a60a6f2f</guid>
@@ -39,6 +33,12 @@
       <title>Director of Sales - West Coast / Bay Area</title>
       <link>https://axelera.ai/careers</link>
       <guid isPermaLink="false">11196e3ae78d9ab6baeddf3b60d9f6de</guid>
+    </item>
+    <item>
+      <title>Director of Sales - APAC</title>
+      <link>https://axelera.ai/careers</link>
+      <description>FullTime</description>
+      <guid isPermaLink="false">79d3ce64a71ab0c1c948e37a313bdbc2</guid>
     </item>
     <item>
       <title>Senior Engineer – Multimodal AI Model Development Research</title>
@@ -65,6 +65,18 @@
       <link>https://axelera.ai/careers</link>
       <description>FullTime</description>
       <guid isPermaLink="false">5c67b614f231f45734cfe05b291c1299</guid>
+    </item>
+    <item>
+      <title>Partner Evangelist - EMEA</title>
+      <link>https://axelera.ai/careers</link>
+      <description>FullTime</description>
+      <guid isPermaLink="false">16e3a279dae675ff86013e2fdb469277</guid>
+    </item>
+    <item>
+      <title>Partner Evangelist - US/West Coast</title>
+      <link>https://axelera.ai/careers</link>
+      <description>FullTime</description>
+      <guid isPermaLink="false">f3e14a12f2ee8e5ec6f26a6801a7b614</guid>
     </item>
     <item>
       <title>Public Funding &amp; Government Engagement Specialist (Dutch speaker)</title>
