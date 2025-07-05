@@ -6,7 +6,7 @@
     <description>Latest job offers at Axelera AI</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 04 Jul 2025 06:24:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Jul 2025 06:21:53 +0000</lastBuildDate>
     <item>
       <title>Senior Engineer - Silicon Physical Design (Italy based)</title>
       <link>https://axelera.ai/careers</link>
@@ -93,12 +93,6 @@
       <title>HR Administrator (freelance/contractor; 16-24 hrs/pw)</title>
       <link>https://axelera.ai/careers</link>
       <guid isPermaLink="false">5b8ee071c54499339279cecdb84ce3d7</guid>
-    </item>
-    <item>
-      <title>Expert - Electronics Category Management</title>
-      <link>https://axelera.ai/careers</link>
-      <description>FullTime</description>
-      <guid isPermaLink="false">148c3bcb9a19d4e61d9dc876f2cd94c8</guid>
     </item>
     <item>
       <title>Director - HR Business Partner</title>
