@@ -6,7 +6,7 @@
     <description>Latest job offers at Axelera AI</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 20 Jul 2025 06:23:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jul 2025 06:26:27 +0000</lastBuildDate>
     <item>
       <title>Senior Engineer - Silicon Physical Design (Italy based)</title>
       <link>https://axelera.ai/careers</link>
@@ -35,9 +35,10 @@
       <guid isPermaLink="false">11196e3ae78d9ab6baeddf3b60d9f6de</guid>
     </item>
     <item>
-      <title>Senior Engineer – Multimodal AI Model Development Research</title>
+      <title>Senior Engineer – AI Model Compression Research</title>
       <link>https://axelera.ai/careers</link>
-      <guid isPermaLink="false">6e077433b7f4f2c2100c73804cc4d75b</guid>
+      <description>FullTime</description>
+      <guid isPermaLink="false">4b8a3adde514abd512044442e6f03b8a</guid>
     </item>
     <item>
       <title>Senior Engineer – Multimodal AI Model Development Research</title>
@@ -51,9 +52,14 @@
       <guid isPermaLink="false">79d3ce64a71ab0c1c948e37a313bdbc2</guid>
     </item>
     <item>
-      <title>Senior Engineer – AI Model Compression Research</title>
+      <title>Senior Engineer – Multimodal AI Model Development Research</title>
       <link>https://axelera.ai/careers</link>
-      <guid isPermaLink="false">4b8a3adde514abd512044442e6f03b8a</guid>
+      <guid isPermaLink="false">6e077433b7f4f2c2100c73804cc4d75b</guid>
+    </item>
+    <item>
+      <title>Senior Engineer – AI Data Generation &amp; Optimization Research</title>
+      <link>https://axelera.ai/careers</link>
+      <guid isPermaLink="false">4f792b5e51b2a6a2deffe8b91a5cca2c</guid>
     </item>
     <item>
       <title>Distinguished Engineer - Machine Learning (VP level)</title>
@@ -62,32 +68,10 @@
       <guid isPermaLink="false">5c67b614f231f45734cfe05b291c1299</guid>
     </item>
     <item>
-      <title>Partner Evangelist - EMEA</title>
-      <link>https://axelera.ai/careers</link>
-      <description>FullTime</description>
-      <guid isPermaLink="false">16e3a279dae675ff86013e2fdb469277</guid>
-    </item>
-    <item>
-      <title>Senior Engineer – AI Data Generation &amp; Optimization Research</title>
-      <link>https://axelera.ai/careers</link>
-      <guid isPermaLink="false">4f792b5e51b2a6a2deffe8b91a5cca2c</guid>
-    </item>
-    <item>
-      <title>Partner Evangelist - US/West Coast</title>
-      <link>https://axelera.ai/careers</link>
-      <description>FullTime</description>
-      <guid isPermaLink="false">f3e14a12f2ee8e5ec6f26a6801a7b614</guid>
-    </item>
-    <item>
       <title>Public Funding &amp; Government Engagement Specialist (Dutch speaker)</title>
       <link>https://axelera.ai/careers</link>
       <description>FullTime</description>
       <guid isPermaLink="false">d4210f40281e9a1b73bf04c00f572301</guid>
-    </item>
-    <item>
-      <title>Logistics &amp; Trade Compliance Specialist (freelance/contractor; 6-month engagement)</title>
-      <link>https://axelera.ai/careers</link>
-      <guid isPermaLink="false">486bf94e348d8fb0f17b64d9fbd16970</guid>
     </item>
     <item>
       <title>HR &amp; Payroll Administrator (freelance/contractor; 16-24 hrs/pw)</title>
