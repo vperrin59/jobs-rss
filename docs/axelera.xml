@@ -6,7 +6,7 @@
     <description>Latest job offers at Axelera AI</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 04 Aug 2025 06:32:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Aug 2025 06:28:06 +0000</lastBuildDate>
     <item>
       <title>Senior Software Engineer – RTL Verification (Italy based)</title>
       <link>https://axelera.ai/careers</link>
@@ -56,12 +56,6 @@
       <title>Senior Engineer – Multimodal AI Model Development Research</title>
       <link>https://axelera.ai/careers</link>
       <guid isPermaLink="false">6e077433b7f4f2c2100c73804cc4d75b</guid>
-    </item>
-    <item>
-      <title>Director of Sales - APAC</title>
-      <link>https://axelera.ai/careers</link>
-      <description>FullTime</description>
-      <guid isPermaLink="false">79d3ce64a71ab0c1c948e37a313bdbc2</guid>
     </item>
     <item>
       <title>Senior Engineer – Multimodal AI Model Development Research</title>
