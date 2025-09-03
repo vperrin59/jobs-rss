@@ -6,7 +6,7 @@
     <description>Latest job offers at Axelera AI</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Sep 2025 06:24:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Sep 2025 06:22:08 +0000</lastBuildDate>
     <item>
       <title>Senior Software Engineer – RTL Verification (Italy based)</title>
       <link>https://axelera.ai/careers</link>
@@ -36,23 +36,6 @@
       <guid isPermaLink="false">e76a9ae6d2e41287f29270afc50f4f9f</guid>
     </item>
     <item>
-      <title>Principal DFT Engineer</title>
-      <link>https://axelera.ai/careers</link>
-      <description>FullTime</description>
-      <guid isPermaLink="false">9306d8c0a4866a83791be956ad0791df</guid>
-    </item>
-    <item>
-      <title>Director of Sales - West Coast / Bay Area</title>
-      <link>https://axelera.ai/careers</link>
-      <guid isPermaLink="false">11196e3ae78d9ab6baeddf3b60d9f6de</guid>
-    </item>
-    <item>
-      <title>Senior Engineer – AI Model Compression Research</title>
-      <link>https://axelera.ai/careers</link>
-      <description>FullTime</description>
-      <guid isPermaLink="false">4b8a3adde514abd512044442e6f03b8a</guid>
-    </item>
-    <item>
       <title>Senior Engineer – Multimodal AI Model Development Research</title>
       <link>https://axelera.ai/careers</link>
       <guid isPermaLink="false">6e077433b7f4f2c2100c73804cc4d75b</guid>
@@ -69,9 +52,20 @@
       <guid isPermaLink="false">d4210f40281e9a1b73bf04c00f572301</guid>
     </item>
     <item>
-      <title>HR &amp; Payroll Administrator (freelance/contractor; 16-24 hrs/pw)</title>
+      <title>Director – People Operations</title>
       <link>https://axelera.ai/careers</link>
-      <guid isPermaLink="false">4c1ea3d6b5a8e72914d545fcecb1f07e</guid>
+      <guid isPermaLink="false">b0bf934a2e1fae337e72e421eeb1cf94</guid>
+    </item>
+    <item>
+      <title>Director - HR Business Partner</title>
+      <link>https://axelera.ai/careers</link>
+      <guid isPermaLink="false">ab56e8161dc2dff1c35271eb369e74ac</guid>
+    </item>
+    <item>
+      <title>Principal DFT Engineer</title>
+      <link>https://axelera.ai/careers</link>
+      <description>FullTime</description>
+      <guid isPermaLink="false">9306d8c0a4866a83791be956ad0791df</guid>
     </item>
   </channel>
 </rss>
