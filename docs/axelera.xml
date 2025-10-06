@@ -6,7 +6,13 @@
     <description>Latest job offers at Axelera AI</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 Oct 2025 06:20:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 06:24:12 +0000</lastBuildDate>
+    <item>
+      <title>Graduation Internship - Deployment of AI Inference Accelerator Applications</title>
+      <link>https://axelera.ai/careers</link>
+      <description>Full Time</description>
+      <guid isPermaLink="false">a20b722bab02a7ab2703a43ca80c84c6</guid>
+    </item>
     <item>
       <title>(Senior) Field Application Engineer - BeNeLux</title>
       <link>https://axelera.ai/careers</link>
@@ -62,11 +68,6 @@
       <title>Senior Engineer – AI Data Generation &amp; Optimization Research</title>
       <link>https://axelera.ai/careers</link>
       <guid isPermaLink="false">4f792b5e51b2a6a2deffe8b91a5cca2c</guid>
-    </item>
-    <item>
-      <title>Director – People Operations</title>
-      <link>https://axelera.ai/careers</link>
-      <guid isPermaLink="false">b0bf934a2e1fae337e72e421eeb1cf94</guid>
     </item>
     <item>
       <title>Principal DFT Engineer</title>
