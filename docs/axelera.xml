@@ -6,7 +6,13 @@
     <description>Latest job offers at Axelera AI</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Oct 2025 06:24:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Oct 2025 06:23:53 +0000</lastBuildDate>
+    <item>
+      <title>Staff Engineer - CPU &amp; ISA Architecture (Europe based)</title>
+      <link>https://axelera.ai/careers</link>
+      <description>Full Time</description>
+      <guid isPermaLink="false">5bfd1431a2b0a7851e67d0556a878a0a</guid>
+    </item>
     <item>
       <title>Director of Sales - France</title>
       <link>https://axelera.ai/careers</link>
@@ -86,11 +92,6 @@
       <link>https://axelera.ai/careers</link>
       <description>Full Time</description>
       <guid isPermaLink="false">9306d8c0a4866a83791be956ad0791df</guid>
-    </item>
-    <item>
-      <title>Procurement Manager</title>
-      <link>https://axelera.ai/careers</link>
-      <guid isPermaLink="false">3d680fa7d8d073fd1fb615ed76ccd6b0</guid>
     </item>
   </channel>
 </rss>
