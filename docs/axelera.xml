@@ -6,7 +6,7 @@
     <description>Latest job offers at Axelera AI</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Nov 2025 06:26:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 06:26:15 +0000</lastBuildDate>
     <item>
       <title>Senior/Staff Circuit Designer</title>
       <link>https://axelera.ai/careers</link>
@@ -18,9 +18,9 @@
       <guid isPermaLink="false">bb7c2dd70e438fd175bca4377765f4c3</guid>
     </item>
     <item>
-      <title>(Senior) Field Application Engineer - Southern Europe</title>
+      <title>(Senior) Field Application Engineer</title>
       <link>https://axelera.ai/careers</link>
-      <guid isPermaLink="false">6a2d147bc462e8c15eb7052e1b1ab269</guid>
+      <guid isPermaLink="false">ce738843ad7de5fb7101a8254f081ec7</guid>
     </item>
     <item>
       <title>Director of Business Development – AI Factories &amp; HPC Solutions</title>
@@ -73,11 +73,6 @@
       <title>Senior R&amp;D Engineer - System Architecture (Italy based)</title>
       <link>https://axelera.ai/careers</link>
       <guid isPermaLink="false">43bd6e2fe85ae91ca05a33c1a60a6f2f</guid>
-    </item>
-    <item>
-      <title>Vice President of Sales - North America</title>
-      <link>https://axelera.ai/careers</link>
-      <guid isPermaLink="false">e76a9ae6d2e41287f29270afc50f4f9f</guid>
     </item>
     <item>
       <title>Senior Engineer – Multimodal AI Model Development Research</title>
