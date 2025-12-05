@@ -6,16 +6,16 @@
     <description>Latest job offers at Axelera AI</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 Dec 2025 06:26:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Dec 2025 06:26:38 +0000</lastBuildDate>
+    <item>
+      <title>Senior Engineering Director - AI Integrated Systems</title>
+      <link>https://axelera.ai/careers</link>
+      <guid isPermaLink="false">cb3651b5f37b52f6c80782fd9000f539</guid>
+    </item>
     <item>
       <title>Senior PCB Layout Engineer (Italy based)</title>
       <link>https://axelera.ai/careers</link>
       <guid isPermaLink="false">0b763e6ee3a396bdaa8a6e5424969639</guid>
-    </item>
-    <item>
-      <title>PoliTo Career Fair - recruiting registration form</title>
-      <link>https://axelera.ai/careers</link>
-      <guid isPermaLink="false">74679205ab6f4bc6a287950f2d50d8d0</guid>
     </item>
     <item>
       <title>IEEE Jobfair - Leuven 2025</title>
@@ -28,9 +28,9 @@
       <guid isPermaLink="false">7f6d1c9f9ed0573f907f146837e83e79</guid>
     </item>
     <item>
-      <title>Senior/Staff Circuit Designer</title>
+      <title>Hardware Engineer - Circuit Design (Italy based)</title>
       <link>https://axelera.ai/careers</link>
-      <guid isPermaLink="false">fb48aa3f26e4481727d54a61170e9e00</guid>
+      <guid isPermaLink="false">363aeff825c3761ec8c3e3e236472069</guid>
     </item>
     <item>
       <title>Field Application Engineering Manager - Americas</title>
