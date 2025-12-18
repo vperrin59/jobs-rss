@@ -6,7 +6,42 @@
     <description>Latest job offers at Axelera AI</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 Dec 2025 06:27:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 06:27:47 +0000</lastBuildDate>
+    <item>
+      <title>Technical Sales Development Representative - North America</title>
+      <link>https://axelera.ai/careers</link>
+      <guid isPermaLink="false">d2fd9349b2c3a474e481aa188affda43</guid>
+    </item>
+    <item>
+      <title>Technical Sales Development Representative - EMEA</title>
+      <link>https://axelera.ai/careers</link>
+      <guid isPermaLink="false">0a22c180624a76d4ca43ab80f4ff6225</guid>
+    </item>
+    <item>
+      <title>Technical Coordinator – Horizon EU Project</title>
+      <link>https://axelera.ai/careers</link>
+      <guid isPermaLink="false">fed1950e625f017841064f7e99bf244c</guid>
+    </item>
+    <item>
+      <title>Technical Automotive Program Manager</title>
+      <link>https://axelera.ai/careers</link>
+      <guid isPermaLink="false">0ad9393ad14c9a553753dab0c983b0c8</guid>
+    </item>
+    <item>
+      <title>Head of Automotive</title>
+      <link>https://axelera.ai/careers</link>
+      <guid isPermaLink="false">0774bcfe4b8df49ce5aa9a99e9e4f600</guid>
+    </item>
+    <item>
+      <title>Edge AI Product Marketing Manager</title>
+      <link>https://axelera.ai/careers</link>
+      <guid isPermaLink="false">b0bdaa6425d626bc47e0556d53fcf233</guid>
+    </item>
+    <item>
+      <title>Embedded Software Engineer - Driver &amp; OS</title>
+      <link>https://axelera.ai/careers</link>
+      <guid isPermaLink="false">e998b26afcd35863e3d8d340a1a375ed</guid>
+    </item>
     <item>
       <title>(Senior) Field Application Engineer - India</title>
       <link>https://axelera.ai/careers</link>
@@ -18,9 +53,9 @@
       <guid isPermaLink="false">49d295df157087d9d38f62afbfc93670</guid>
     </item>
     <item>
-      <title>IT Applications Manager</title>
+      <title>IT Business Applications Manager</title>
       <link>https://axelera.ai/careers</link>
-      <guid isPermaLink="false">573f375f6d4ca83219c9c0fb6bd38ac2</guid>
+      <guid isPermaLink="false">821ee1af8e360367a4a20bdf6c6eec2e</guid>
     </item>
     <item>
       <title>(Senior) IT Support Engineer</title>
@@ -102,16 +137,6 @@
       <title>Senior R&amp;D Engineer - System Architecture (Italy based)</title>
       <link>https://axelera.ai/careers</link>
       <guid isPermaLink="false">43bd6e2fe85ae91ca05a33c1a60a6f2f</guid>
-    </item>
-    <item>
-      <title>Senior Engineer – Multimodal AI Model Development Research</title>
-      <link>https://axelera.ai/careers</link>
-      <guid isPermaLink="false">6e077433b7f4f2c2100c73804cc4d75b</guid>
-    </item>
-    <item>
-      <title>Senior Engineer – AI Data Generation &amp; Optimization Research</title>
-      <link>https://axelera.ai/careers</link>
-      <guid isPermaLink="false">4f792b5e51b2a6a2deffe8b91a5cca2c</guid>
     </item>
     <item>
       <title>Senior DFT Engineer</title>
