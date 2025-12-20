@@ -6,7 +6,12 @@
     <description>Latest job offers at Axelera AI</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Dec 2025 06:27:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Dec 2025 06:25:27 +0000</lastBuildDate>
+    <item>
+      <title>Lead Sourcer/Recruiter – Semiconductor Engineering</title>
+      <link>https://axelera.ai/careers</link>
+      <guid isPermaLink="false">ffb2893f8a039291ba41cdc4302b97a2</guid>
+    </item>
     <item>
       <title>Technical Sales Development Representative - North America</title>
       <link>https://axelera.ai/careers</link>
@@ -38,9 +43,9 @@
       <guid isPermaLink="false">b0bdaa6425d626bc47e0556d53fcf233</guid>
     </item>
     <item>
-      <title>Embedded Software Engineer - Driver &amp; OS</title>
+      <title>Embedded Software Engineer - Driver &amp; OS (Italy based)</title>
       <link>https://axelera.ai/careers</link>
-      <guid isPermaLink="false">e998b26afcd35863e3d8d340a1a375ed</guid>
+      <guid isPermaLink="false">140838799a749221a4f27d63e50a5cba</guid>
     </item>
     <item>
       <title>(Senior) Field Application Engineer - India</title>
