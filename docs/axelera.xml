@@ -6,7 +6,12 @@
     <description>Latest job offers at Axelera AI</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Jan 2026 06:30:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 06:31:00 +0000</lastBuildDate>
+    <item>
+      <title>Senior/Staff Applications Engineer - Embedded AI</title>
+      <link>https://axelera.ai/careers</link>
+      <guid isPermaLink="false">c6111de2f10896dfc462baf941c820bc</guid>
+    </item>
     <item>
       <title>Sales Manager - Indonesia</title>
       <link>https://axelera.ai/careers</link>
@@ -117,9 +122,9 @@
       <guid isPermaLink="false">3422c87889137ce0dcd36c882c796e7c</guid>
     </item>
     <item>
-      <title>Senior R&amp;D Engineer - System Architecture</title>
+      <title>Senior R&amp;D Engineer - System Architecture (Europe based)</title>
       <link>https://axelera.ai/careers</link>
-      <guid isPermaLink="false">201f517cd26a14fe4e02b8a7ffcb5991</guid>
+      <guid isPermaLink="false">ee6ef633fd09e73e8d42182a0b91c3ee</guid>
     </item>
     <item>
       <title>Senior DFT Engineer</title>
