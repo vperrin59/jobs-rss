@@ -6,7 +6,7 @@
     <description>Latest job offers at Axelera AI</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 Jan 2026 06:29:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 06:26:51 +0000</lastBuildDate>
     <item>
       <title>Senior/Staff Applications Engineer - Embedded AI</title>
       <link>https://axelera.ai/careers</link>
@@ -43,9 +43,9 @@
       <guid isPermaLink="false">0774bcfe4b8df49ce5aa9a99e9e4f600</guid>
     </item>
     <item>
-      <title>Edge AI Product Marketing Manager</title>
+      <title>Edge AI Product Marketing Manager/Director</title>
       <link>https://axelera.ai/careers</link>
-      <guid isPermaLink="false">b0bdaa6425d626bc47e0556d53fcf233</guid>
+      <guid isPermaLink="false">73db157c51ae854dd99470777f59c0a5</guid>
     </item>
     <item>
       <title>Embedded Software Engineer - Driver &amp; OS (Italy based)</title>
@@ -116,21 +116,39 @@
       <guid isPermaLink="false">d2a6814e1c19f3c757a87df6559d55fb</guid>
     </item>
     <item>
-      <title>Senior Silicon Physical Design Engineer</title>
-      <link>https://axelera.ai/careers</link>
-      <description>Full Time</description>
-      <guid isPermaLink="false">3422c87889137ce0dcd36c882c796e7c</guid>
-    </item>
-    <item>
       <title>Senior R&amp;D Engineer - System Architecture (Europe based)</title>
       <link>https://axelera.ai/careers</link>
       <guid isPermaLink="false">ee6ef633fd09e73e8d42182a0b91c3ee</guid>
     </item>
     <item>
-      <title>Senior DFT Engineer</title>
+      <title>Logical Design Engineer</title>
       <link>https://axelera.ai/careers</link>
       <description>Full Time</description>
-      <guid isPermaLink="false">399069059ad420672640a0a71b28721d</guid>
+      <guid isPermaLink="false">1bcc6588ec47b30d50d4e130f5157ec1</guid>
+    </item>
+    <item>
+      <title>Senior/Staff Silicon Physical Design Engineer</title>
+      <link>https://axelera.ai/careers</link>
+      <description>Full Time</description>
+      <guid isPermaLink="false">3eb8181479517bc34266f915bd56beff</guid>
+    </item>
+    <item>
+      <title>Verification Engineer (all seniority levels)</title>
+      <link>https://axelera.ai/careers</link>
+      <description>Full Time</description>
+      <guid isPermaLink="false">117f21b868da161a411cc192f0fafddc</guid>
+    </item>
+    <item>
+      <title>Processor Verification Engineer (all seniority levels)</title>
+      <link>https://axelera.ai/careers</link>
+      <description>Full Time</description>
+      <guid isPermaLink="false">ad9d0240a0e3f095dc1cc467d45fcfc8</guid>
+    </item>
+    <item>
+      <title>Senior/Staff DFT Engineer</title>
+      <link>https://axelera.ai/careers</link>
+      <description>Full Time</description>
+      <guid isPermaLink="false">5f10d918ec79602ad14fe97c3bc9efe6</guid>
     </item>
   </channel>
 </rss>
