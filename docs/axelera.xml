@@ -6,7 +6,22 @@
     <description>Latest job offers at Axelera AI</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Feb 2026 06:49:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 06:37:21 +0000</lastBuildDate>
+    <item>
+      <title>Principal Engineer - Silicon Logical Design</title>
+      <link>https://axelera.ai/careers</link>
+      <guid isPermaLink="false">3678e9192052b3f40c38e88452a2a01b</guid>
+    </item>
+    <item>
+      <title>Director - Silicon Logical Design</title>
+      <link>https://axelera.ai/careers</link>
+      <guid isPermaLink="false">b6c391e200d881af3d03a8942c7421e5</guid>
+    </item>
+    <item>
+      <title>Silicon Product Engineering Lead (Bristol)</title>
+      <link>https://axelera.ai/careers</link>
+      <guid isPermaLink="false">8d7ad391ae926e2a945eb55d8e8a8c1b</guid>
+    </item>
     <item>
       <title>Senior Engineer – Multimodal AI Model Development Research</title>
       <link>https://axelera.ai/careers</link>
