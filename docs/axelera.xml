@@ -6,7 +6,17 @@
     <description>Latest job offers at Axelera AI</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Feb 2026 06:59:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 06:55:43 +0000</lastBuildDate>
+    <item>
+      <title>Legal Intern</title>
+      <link>https://axelera.ai/careers</link>
+      <guid isPermaLink="false">823faa02d4fc0bdf053e3c118b3b0617</guid>
+    </item>
+    <item>
+      <title>Senior Test Engineer</title>
+      <link>https://axelera.ai/careers</link>
+      <guid isPermaLink="false">dbf0f2d9634f41b3df9e08f0116b94dc</guid>
+    </item>
     <item>
       <title>Principal Engineer - Silicon Logical Design</title>
       <link>https://axelera.ai/careers</link>
