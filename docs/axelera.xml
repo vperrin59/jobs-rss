@@ -6,16 +6,11 @@
     <description>Latest job offers at Axelera AI</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Mar 2026 06:52:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 06:44:48 +0000</lastBuildDate>
     <item>
       <title>Vice President of Operations</title>
       <link>https://axelera.ai/careers</link>
       <guid isPermaLink="false">e76cf1fdcaefde0da246d24704e1315e</guid>
-    </item>
-    <item>
-      <title>Legal Intern</title>
-      <link>https://axelera.ai/careers</link>
-      <guid isPermaLink="false">823faa02d4fc0bdf053e3c118b3b0617</guid>
     </item>
     <item>
       <title>Principal Engineer - Silicon Logical Design</title>
@@ -43,9 +38,9 @@
       <guid isPermaLink="false">7e84a99de4190a6f1d3e8d9683407ba1</guid>
     </item>
     <item>
-      <title>Product Engineer</title>
+      <title>Electrical Engineer</title>
       <link>https://axelera.ai/careers</link>
-      <guid isPermaLink="false">d7ab44bbd5392dfe1dcd4c6e1f190004</guid>
+      <guid isPermaLink="false">334bf42531ec0ce4bc346d8814cf17e1</guid>
     </item>
     <item>
       <title>Logistics Lead (Eindhoven)</title>
