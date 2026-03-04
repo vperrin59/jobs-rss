@@ -6,7 +6,12 @@
     <description>Latest job offers at Axelera AI</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Mar 2026 06:44:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 06:41:44 +0000</lastBuildDate>
+    <item>
+      <title>Senior/Staff Backend Compiler Engineer</title>
+      <link>https://axelera.ai/careers</link>
+      <guid isPermaLink="false">47f74a7222a524d6a88e0b6425c543ab</guid>
+    </item>
     <item>
       <title>Vice President of Operations</title>
       <link>https://axelera.ai/careers</link>
