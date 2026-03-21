@@ -6,7 +6,7 @@
     <description>Latest job offers at Axelera AI</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Mar 2026 06:50:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 06:37:56 +0000</lastBuildDate>
     <item>
       <title>Senior/Staff AI Graph Compiler Engineer</title>
       <link>https://axelera.ai/careers</link>
@@ -96,11 +96,6 @@
       <title>(Senior) IT Support Engineer</title>
       <link>https://axelera.ai/careers</link>
       <guid isPermaLink="false">9da41c9deebdc0f36021a71a593b0e17</guid>
-    </item>
-    <item>
-      <title>Director of Engineering - AI Integrated Systems</title>
-      <link>https://axelera.ai/careers</link>
-      <guid isPermaLink="false">56a08f9d26e16a715190569354fef065</guid>
     </item>
     <item>
       <title>Hardware Engineer - Circuit Design (Italy based)</title>
