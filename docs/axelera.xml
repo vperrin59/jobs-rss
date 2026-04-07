@@ -6,10 +6,23 @@
     <description>Latest job offers at Axelera AI</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Apr 2026 07:24:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 07:10:28 +0000</lastBuildDate>
+    <item>
+      <title>Senior/Staff ATE Test Engineer</title>
+      <link>https://axelera.ai/careers</link>
+      <description>Bristol (on-site) (hybrid/remote) Full Time</description>
+      <guid isPermaLink="false">d5c2c69e9a00fdce9cdb1131d1a25d8b</guid>
+    </item>
+    <item>
+      <title>High-Speed Interface Test &amp; Characterisation Engineer</title>
+      <link>https://axelera.ai/careers</link>
+      <description>Bristol (on-site) (hybrid/remote) Full Time</description>
+      <guid isPermaLink="false">43de482c7e30f2eb445fecb432b77d0f</guid>
+    </item>
     <item>
       <title>Physical Design Engineer</title>
       <link>https://axelera.ai/careers</link>
+      <description>Eindhoven (on-site); Bristol (on-site); Leuven (on-site); Porto(hybrid/remote) Full Time</description>
       <guid isPermaLink="false">b9a466fd3676f44c8b7af032f940b09a</guid>
     </item>
     <item>
@@ -83,9 +96,9 @@
       <guid isPermaLink="false">140838799a749221a4f27d63e50a5cba</guid>
     </item>
     <item>
-      <title>(Senior) Field Application Engineer - India</title>
+      <title>(Senior) Customer Application Engineer - India</title>
       <link>https://axelera.ai/careers</link>
-      <guid isPermaLink="false">b7f6ecceadb4061703f771698dd5e4c9</guid>
+      <guid isPermaLink="false">1eab570400eddd5c5ada68b6e5e55238</guid>
     </item>
     <item>
       <title>Director of Sales - United Kingdom</title>
@@ -98,19 +111,9 @@
       <guid isPermaLink="false">9da41c9deebdc0f36021a71a593b0e17</guid>
     </item>
     <item>
-      <title>Hardware Engineer - Circuit Design (Italy based)</title>
+      <title>Field Application Engineering Manager/Director - Americas</title>
       <link>https://axelera.ai/careers</link>
-      <guid isPermaLink="false">363aeff825c3761ec8c3e3e236472069</guid>
-    </item>
-    <item>
-      <title>Field Application Engineering Manager - Americas</title>
-      <link>https://axelera.ai/careers</link>
-      <guid isPermaLink="false">bb7c2dd70e438fd175bca4377765f4c3</guid>
-    </item>
-    <item>
-      <title>(Senior) Field Application Engineer</title>
-      <link>https://axelera.ai/careers</link>
-      <guid isPermaLink="false">ce738843ad7de5fb7101a8254f081ec7</guid>
+      <guid isPermaLink="false">2424162ed6d411446d857bb238bfb449</guid>
     </item>
     <item>
       <title>Automotive Functional Safety Architect – SoC/AI Silicon</title>
