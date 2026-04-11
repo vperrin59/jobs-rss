@@ -6,7 +6,18 @@
     <description>Latest job offers at Axelera AI</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Apr 2026 07:22:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 06:56:48 +0000</lastBuildDate>
+    <item>
+      <title>Quality Manager</title>
+      <link>https://axelera.ai/careers</link>
+      <description>Europe, incl. UK (hybrid/remote) Full Time</description>
+      <guid isPermaLink="false">94fd44edf5914e48db454a5df1caa291</guid>
+    </item>
+    <item>
+      <title>Accounting Specialist</title>
+      <link>https://axelera.ai/careers</link>
+      <guid isPermaLink="false">635d4c2845996ec9fede9dfe3cd7a3dc</guid>
+    </item>
     <item>
       <title>Senior/Staff ATE Test Engineer</title>
       <link>https://axelera.ai/careers</link>
