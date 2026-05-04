@@ -6,7 +6,7 @@
     <description>Latest job offers at Axelera AI</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 03 May 2026 07:57:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 08:24:28 +0000</lastBuildDate>
     <item>
       <title>Accounting Specialist</title>
       <link>https://axelera.ai/careers</link>
@@ -17,12 +17,6 @@
       <link>https://axelera.ai/careers</link>
       <description>Europe, incl. UK (hybrid/remote) Full Time</description>
       <guid isPermaLink="false">94fd44edf5914e48db454a5df1caa291</guid>
-    </item>
-    <item>
-      <title>Polymesse 2026 - recruiting registration form</title>
-      <link>https://axelera.ai/careers</link>
-      <description>Zurich (on-site) Full Time</description>
-      <guid isPermaLink="false">97eaf2732a99d9b4bd35d95fd6f6359a</guid>
     </item>
     <item>
       <title>High-Speed Interface Test &amp; Characterisation Engineer</title>
