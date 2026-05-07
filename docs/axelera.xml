@@ -6,7 +6,7 @@
     <description>Latest job offers at Axelera AI</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 May 2026 08:03:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 08:28:10 +0000</lastBuildDate>
     <item>
       <title>Accounting Specialist</title>
       <link>https://axelera.ai/careers</link>
@@ -17,12 +17,6 @@
       <link>https://axelera.ai/careers</link>
       <description>Europe, incl. UK (hybrid/remote) Full Time</description>
       <guid isPermaLink="false">94fd44edf5914e48db454a5df1caa291</guid>
-    </item>
-    <item>
-      <title>High-Speed Interface Test &amp; Characterisation Engineer</title>
-      <link>https://axelera.ai/careers</link>
-      <description>Bristol (on-site) (hybrid/remote) Full Time</description>
-      <guid isPermaLink="false">43de482c7e30f2eb445fecb432b77d0f</guid>
     </item>
     <item>
       <title>Physical Design Engineer</title>
@@ -64,11 +58,6 @@
       <title>Senior Engineer – Multimodal AI Model Development Research</title>
       <link>https://axelera.ai/careers</link>
       <guid isPermaLink="false">6e077433b7f4f2c2100c73804cc4d75b</guid>
-    </item>
-    <item>
-      <title>Electrical Engineer</title>
-      <link>https://axelera.ai/careers</link>
-      <guid isPermaLink="false">334bf42531ec0ce4bc346d8814cf17e1</guid>
     </item>
     <item>
       <title>Logistics Lead (Eindhoven)</title>
