@@ -6,11 +6,16 @@
     <description>Latest job offers at Axelera AI</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 24 May 2026 08:24:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 09:57:50 +0000</lastBuildDate>
     <item>
-      <title>Director - Field Application Engineering (Taiwan)</title>
+      <title>PoliTo Career Fair - recruiting registration form</title>
       <link>https://axelera.ai/careers</link>
-      <guid isPermaLink="false">308be7b51f618b51f9e551b962b8054f</guid>
+      <guid isPermaLink="false">74679205ab6f4bc6a287950f2d50d8d0</guid>
+    </item>
+    <item>
+      <title>Director - Field Application Engineering (APAC)</title>
+      <link>https://axelera.ai/careers</link>
+      <guid isPermaLink="false">ed3301b1e45c7b65fd23c0f966f6b4b3</guid>
     </item>
     <item>
       <title>Director - AI Infrastructure Systems</title>
