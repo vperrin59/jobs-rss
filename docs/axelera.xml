@@ -6,11 +6,11 @@
     <description>Latest job offers at Axelera AI</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 Jun 2026 09:50:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 09:38:47 +0000</lastBuildDate>
     <item>
-      <title>Director - Silicon Product Engineering</title>
+      <title>Director - Silicon Product &amp; Test Engineering</title>
       <link>https://axelera.ai/careers</link>
-      <guid isPermaLink="false">a924c41158a591f44789b2a3746baedd</guid>
+      <guid isPermaLink="false">b255194cffecfda78990a992ff3cd1d3</guid>
     </item>
     <item>
       <title>Director - Field Application Engineering (EMEA)</title>
@@ -73,17 +73,6 @@
       <title>Field Application Engineering Director - Americas</title>
       <link>https://axelera.ai/careers</link>
       <guid isPermaLink="false">7b3279e133d3639cdcd5aea05cdabd82</guid>
-    </item>
-    <item>
-      <title>Automotive Functional Safety Architect – SoC/AI Silicon</title>
-      <link>https://axelera.ai/careers</link>
-      <description>Full Time</description>
-      <guid isPermaLink="false">d2a6814e1c19f3c757a87df6559d55fb</guid>
-    </item>
-    <item>
-      <title>Senior R&amp;D Engineer - System Architecture (Europe based)</title>
-      <link>https://axelera.ai/careers</link>
-      <guid isPermaLink="false">ee6ef633fd09e73e8d42182a0b91c3ee</guid>
     </item>
     <item>
       <title>Logical Design Engineer</title>
