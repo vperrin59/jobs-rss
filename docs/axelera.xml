@@ -6,21 +6,16 @@
     <description>Latest job offers at Axelera AI</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Jun 2026 11:03:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 10:47:46 +0000</lastBuildDate>
     <item>
-      <title>NPI Product Engineer</title>
+      <title>New Product Introduction Engineer</title>
       <link>https://axelera.ai/careers</link>
-      <guid isPermaLink="false">3369bdbc6cb3e05c6fdb144a0e80e458</guid>
+      <guid isPermaLink="false">5535b0b293141b173b8cdca97cf118e6</guid>
     </item>
     <item>
       <title>Ecosystem Integration Engineer</title>
       <link>https://axelera.ai/careers</link>
       <guid isPermaLink="false">a44f432485a2feaf3e5d601236b564b1</guid>
-    </item>
-    <item>
-      <title>Software Technical Program Manager</title>
-      <link>https://axelera.ai/careers</link>
-      <guid isPermaLink="false">51cebe637840f6875a74063334a06d7c</guid>
     </item>
     <item>
       <title>Director - Silicon Product &amp; Test Engineering</title>
