@@ -6,7 +6,7 @@
     <description>Latest job offers at Axelera AI</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Jun 2026 09:31:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 09:20:57 +0000</lastBuildDate>
     <item>
       <title>Advanced Packaging &amp; Power Delivery Senior Engineer</title>
       <link>https://axelera.ai/careers</link>
@@ -43,9 +43,9 @@
       <guid isPermaLink="false">ed3301b1e45c7b65fd23c0f966f6b4b3</guid>
     </item>
     <item>
-      <title>Director - AI Infrastructure Systems</title>
+      <title>Director - Hardware Engineering, AI Infrastructure Systems</title>
       <link>https://axelera.ai/careers</link>
-      <guid isPermaLink="false">3522c1942cbedd1ce3ceebda8aae6673</guid>
+      <guid isPermaLink="false">124c927eb72c57584bf8a3d29646b87f</guid>
     </item>
     <item>
       <title>Accounting Specialist</title>
@@ -68,11 +68,6 @@
       <title>Director - Silicon Logical Design</title>
       <link>https://axelera.ai/careers</link>
       <guid isPermaLink="false">b6c391e200d881af3d03a8942c7421e5</guid>
-    </item>
-    <item>
-      <title>Senior Engineer – Multimodal AI Model Development Research</title>
-      <link>https://axelera.ai/careers</link>
-      <guid isPermaLink="false">6e077433b7f4f2c2100c73804cc4d75b</guid>
     </item>
     <item>
       <title>Director of Sales - United Kingdom</title>
