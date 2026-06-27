@@ -6,57 +6,17 @@
     <description>Latest job offers at Axelera AI</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Jun 2026 08:56:55 +0000</lastBuildDate>
-    <item>
-      <title>Advanced Packaging &amp; Power Delivery Senior Engineer</title>
-      <link>https://axelera.ai/careers</link>
-      <guid isPermaLink="false">935ba3386968bb03d87fec3c2b07b64b</guid>
-    </item>
+    <lastBuildDate>Sat, 27 Jun 2026 08:31:11 +0000</lastBuildDate>
     <item>
       <title>New Product Introduction Engineer</title>
       <link>https://axelera.ai/careers</link>
       <guid isPermaLink="false">5535b0b293141b173b8cdca97cf118e6</guid>
     </item>
     <item>
-      <title>Ecosystem Integration Engineer</title>
-      <link>https://axelera.ai/careers</link>
-      <guid isPermaLink="false">a44f432485a2feaf3e5d601236b564b1</guid>
-    </item>
-    <item>
       <title>Director - Silicon Product &amp; Test Engineering</title>
       <link>https://axelera.ai/careers</link>
+      <description>Full Time</description>
       <guid isPermaLink="false">b255194cffecfda78990a992ff3cd1d3</guid>
-    </item>
-    <item>
-      <title>Director - Field Application Engineering (EMEA)</title>
-      <link>https://axelera.ai/careers</link>
-      <guid isPermaLink="false">5ee2e01edc8825b54c221e8b4568416d</guid>
-    </item>
-    <item>
-      <title>Mechanical &amp; Thermal Staff Engineer</title>
-      <link>https://axelera.ai/careers</link>
-      <guid isPermaLink="false">2a8e3f54fd601114331ddcf9ff42277c</guid>
-    </item>
-    <item>
-      <title>Director - Field Application Engineering (APAC)</title>
-      <link>https://axelera.ai/careers</link>
-      <guid isPermaLink="false">ed3301b1e45c7b65fd23c0f966f6b4b3</guid>
-    </item>
-    <item>
-      <title>Director - Hardware Engineering, AI Infrastructure Systems</title>
-      <link>https://axelera.ai/careers</link>
-      <guid isPermaLink="false">124c927eb72c57584bf8a3d29646b87f</guid>
-    </item>
-    <item>
-      <title>Accounting Specialist</title>
-      <link>https://axelera.ai/careers</link>
-      <guid isPermaLink="false">635d4c2845996ec9fede9dfe3cd7a3dc</guid>
-    </item>
-    <item>
-      <title>Quality Manager</title>
-      <link>https://axelera.ai/careers</link>
-      <description>Europe, incl. UK (hybrid/remote) Full Time</description>
-      <guid isPermaLink="false">94fd44edf5914e48db454a5df1caa291</guid>
     </item>
     <item>
       <title>Physical Design Engineer</title>
@@ -70,16 +30,6 @@
       <guid isPermaLink="false">b6c391e200d881af3d03a8942c7421e5</guid>
     </item>
     <item>
-      <title>Director of Sales - United Kingdom</title>
-      <link>https://axelera.ai/careers</link>
-      <guid isPermaLink="false">49d295df157087d9d38f62afbfc93670</guid>
-    </item>
-    <item>
-      <title>Field Application Engineering Director - Americas</title>
-      <link>https://axelera.ai/careers</link>
-      <guid isPermaLink="false">7b3279e133d3639cdcd5aea05cdabd82</guid>
-    </item>
-    <item>
       <title>Senior/Staff Engineer - Logical Design</title>
       <link>https://axelera.ai/careers</link>
       <description>Full Time</description>
@@ -90,6 +40,58 @@
       <link>https://axelera.ai/careers</link>
       <description>Full Time</description>
       <guid isPermaLink="false">3eb8181479517bc34266f915bd56beff</guid>
+    </item>
+    <item>
+      <title>Director of Sales - United Kingdom</title>
+      <link>https://axelera.ai/careers</link>
+      <guid isPermaLink="false">49d295df157087d9d38f62afbfc93670</guid>
+    </item>
+    <item>
+      <title>Advanced Packaging &amp; Power Delivery Senior Engineer</title>
+      <link>https://axelera.ai/careers</link>
+      <description>Full Time</description>
+      <guid isPermaLink="false">935ba3386968bb03d87fec3c2b07b64b</guid>
+    </item>
+    <item>
+      <title>Director - Field Application Engineering (EMEA)</title>
+      <link>https://axelera.ai/careers</link>
+      <guid isPermaLink="false">5ee2e01edc8825b54c221e8b4568416d</guid>
+    </item>
+    <item>
+      <title>Director - Field Application Engineering (APAC)</title>
+      <link>https://axelera.ai/careers</link>
+      <guid isPermaLink="false">ed3301b1e45c7b65fd23c0f966f6b4b3</guid>
+    </item>
+    <item>
+      <title>Field Application Engineering Director - Americas</title>
+      <link>https://axelera.ai/careers</link>
+      <guid isPermaLink="false">7b3279e133d3639cdcd5aea05cdabd82</guid>
+    </item>
+    <item>
+      <title>Accounting Specialist</title>
+      <link>https://axelera.ai/careers</link>
+      <guid isPermaLink="false">635d4c2845996ec9fede9dfe3cd7a3dc</guid>
+    </item>
+    <item>
+      <title>Quality Manager</title>
+      <link>https://axelera.ai/careers</link>
+      <description>Europe, incl. UK (hybrid/remote) Full Time</description>
+      <guid isPermaLink="false">94fd44edf5914e48db454a5df1caa291</guid>
+    </item>
+    <item>
+      <title>Ecosystem Integration Engineer</title>
+      <link>https://axelera.ai/careers</link>
+      <guid isPermaLink="false">a44f432485a2feaf3e5d601236b564b1</guid>
+    </item>
+    <item>
+      <title>Mechanical &amp; Thermal Staff Engineer</title>
+      <link>https://axelera.ai/careers</link>
+      <guid isPermaLink="false">2a8e3f54fd601114331ddcf9ff42277c</guid>
+    </item>
+    <item>
+      <title>Director - Hardware Engineering, AI Infrastructure Systems</title>
+      <link>https://axelera.ai/careers</link>
+      <guid isPermaLink="false">124c927eb72c57584bf8a3d29646b87f</guid>
     </item>
   </channel>
 </rss>
