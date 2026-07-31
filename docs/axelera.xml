@@ -6,7 +6,7 @@
     <description>Latest job offers at Axelera AI</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Jul 2026 08:17:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 08:42:49 +0000</lastBuildDate>
     <item>
       <title>Director - Silicon Product &amp; Test Engineering</title>
       <link>https://axelera.ai/careers</link>
@@ -68,12 +68,6 @@
       <title>Field Application Engineering Director - Americas</title>
       <link>https://axelera.ai/careers</link>
       <guid isPermaLink="false">7b3279e133d3639cdcd5aea05cdabd82</guid>
-    </item>
-    <item>
-      <title>Quality Manager</title>
-      <link>https://axelera.ai/careers</link>
-      <description>Europe, incl. UK (hybrid/remote) Full Time</description>
-      <guid isPermaLink="false">94fd44edf5914e48db454a5df1caa291</guid>
     </item>
     <item>
       <title>Ecosystem Integration Engineer</title>
