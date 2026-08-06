@@ -6,7 +6,7 @@
     <description>Latest job offers at Axelera AI</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Aug 2026 08:28:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 08:27:58 +0000</lastBuildDate>
     <item>
       <title>Director - Silicon Product &amp; Test Engineering</title>
       <link>https://axelera.ai/careers</link>
@@ -68,6 +68,12 @@
       <title>Field Application Engineering Director - Americas</title>
       <link>https://axelera.ai/careers</link>
       <guid isPermaLink="false">7b3279e133d3639cdcd5aea05cdabd82</guid>
+    </item>
+    <item>
+      <title>Finance Manager</title>
+      <link>https://axelera.ai/careers</link>
+      <description>Eindhoven (hybrid) Full Time</description>
+      <guid isPermaLink="false">76701fe571ae8eeaee2a1ef25d85b92e</guid>
     </item>
     <item>
       <title>VP - People</title>
