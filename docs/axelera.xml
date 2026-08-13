@@ -6,7 +6,7 @@
     <description>Latest job offers at Axelera AI</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Aug 2026 07:17:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 07:19:38 +0000</lastBuildDate>
     <item>
       <title>Director - Silicon Product &amp; Test Engineering</title>
       <link>https://axelera.ai/careers</link>
@@ -60,11 +60,6 @@
       <guid isPermaLink="false">5ee2e01edc8825b54c221e8b4568416d</guid>
     </item>
     <item>
-      <title>Director - Field Application Engineering (APAC)</title>
-      <link>https://axelera.ai/careers</link>
-      <guid isPermaLink="false">ed3301b1e45c7b65fd23c0f966f6b4b3</guid>
-    </item>
-    <item>
       <title>Field Application Engineering Director - Americas</title>
       <link>https://axelera.ai/careers</link>
       <guid isPermaLink="false">7b3279e133d3639cdcd5aea05cdabd82</guid>
@@ -85,11 +80,6 @@
       <title>Ecosystem Integration Engineer</title>
       <link>https://axelera.ai/careers</link>
       <guid isPermaLink="false">a44f432485a2feaf3e5d601236b564b1</guid>
-    </item>
-    <item>
-      <title>Mechanical &amp; Thermal Staff Engineer</title>
-      <link>https://axelera.ai/careers</link>
-      <guid isPermaLink="false">2a8e3f54fd601114331ddcf9ff42277c</guid>
     </item>
     <item>
       <title>Director - Hardware Engineering, AI Infrastructure Systems</title>
