@@ -6,7 +6,7 @@
     <description>Latest job offers at Axelera AI</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Aug 2026 06:36:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 06:37:48 +0000</lastBuildDate>
     <item>
       <title>Director - Silicon Product &amp; Test Engineering</title>
       <link>https://axelera.ai/careers</link>
@@ -37,12 +37,6 @@
       <guid isPermaLink="false">3eb8181479517bc34266f915bd56beff</guid>
     </item>
     <item>
-      <title>Senior/Staff Engineer - Computing Architecture</title>
-      <link>https://axelera.ai/careers</link>
-      <description>Full Time</description>
-      <guid isPermaLink="false">b8eec6e4899830643ab2a7418d1b55ec</guid>
-    </item>
-    <item>
       <title>System Architect – Datacenter Hardware</title>
       <link>https://axelera.ai/careers</link>
       <description>Full Time</description>
@@ -53,11 +47,6 @@
       <link>https://axelera.ai/careers</link>
       <description>Full Time</description>
       <guid isPermaLink="false">935ba3386968bb03d87fec3c2b07b64b</guid>
-    </item>
-    <item>
-      <title>Director - Field Application Engineering (EMEA)</title>
-      <link>https://axelera.ai/careers</link>
-      <guid isPermaLink="false">5ee2e01edc8825b54c221e8b4568416d</guid>
     </item>
     <item>
       <title>Field Application Engineering Director - Americas</title>
