@@ -6,7 +6,7 @@
     <description>Latest job offers at Axelera AI</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Aug 2026 06:37:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 06:32:07 +0000</lastBuildDate>
     <item>
       <title>Director - Silicon Product &amp; Test Engineering</title>
       <link>https://axelera.ai/careers</link>
@@ -23,12 +23,6 @@
       <title>Director - Silicon Logical Design</title>
       <link>https://axelera.ai/careers</link>
       <guid isPermaLink="false">b6c391e200d881af3d03a8942c7421e5</guid>
-    </item>
-    <item>
-      <title>Senior/Staff Engineer - Logical Design</title>
-      <link>https://axelera.ai/careers</link>
-      <description>Full Time</description>
-      <guid isPermaLink="false">6ee5990af5da61ddd92b275017a80ff7</guid>
     </item>
     <item>
       <title>Senior/Staff Silicon Physical Design Engineer</title>
