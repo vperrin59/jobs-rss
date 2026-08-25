@@ -6,7 +6,7 @@
     <description>Latest job offers at Axelera AI</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Aug 2026 06:48:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 06:38:26 +0000</lastBuildDate>
     <item>
       <title>Director - Silicon Product &amp; Test Engineering</title>
       <link>https://axelera.ai/careers</link>
@@ -14,21 +14,9 @@
       <guid isPermaLink="false">b255194cffecfda78990a992ff3cd1d3</guid>
     </item>
     <item>
-      <title>Physical Design Engineer</title>
-      <link>https://axelera.ai/careers</link>
-      <description>Eindhoven (on-site); Bristol (on-site); Leuven (on-site); Porto(hybrid/remote) Full Time</description>
-      <guid isPermaLink="false">b9a466fd3676f44c8b7af032f940b09a</guid>
-    </item>
-    <item>
       <title>Director - Silicon Logical Design</title>
       <link>https://axelera.ai/careers</link>
       <guid isPermaLink="false">b6c391e200d881af3d03a8942c7421e5</guid>
-    </item>
-    <item>
-      <title>Senior/Staff Silicon Physical Design Engineer</title>
-      <link>https://axelera.ai/careers</link>
-      <description>Full Time</description>
-      <guid isPermaLink="false">3eb8181479517bc34266f915bd56beff</guid>
     </item>
     <item>
       <title>System Architect – Datacenter Hardware</title>
