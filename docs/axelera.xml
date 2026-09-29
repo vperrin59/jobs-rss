@@ -6,12 +6,7 @@
     <description>Latest job offers at Axelera AI</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Sep 2026 12:46:57 +0000</lastBuildDate>
-    <item>
-      <title>Director - Silicon Logical Design</title>
-      <link>https://axelera.ai/careers</link>
-      <guid isPermaLink="false">b6c391e200d881af3d03a8942c7421e5</guid>
-    </item>
+    <lastBuildDate>Tue, 29 Sep 2026 12:02:12 +0000</lastBuildDate>
     <item>
       <title>Director of Sales - Enterprise AI</title>
       <link>https://axelera.ai/careers</link>
@@ -27,11 +22,6 @@
       <title>Developer Relations and Community Manager</title>
       <link>https://axelera.ai/careers</link>
       <guid isPermaLink="false">e20481f54e62aa68980ae664f3933238</guid>
-    </item>
-    <item>
-      <title>UK Electronics Skills Foundation (UKESF)</title>
-      <link>https://axelera.ai/careers</link>
-      <guid isPermaLink="false">ade2a084fda249a081dc50fe5b8c8356</guid>
     </item>
     <item>
       <title>Intern - ML Inference Performance Engineer</title>
@@ -56,11 +46,6 @@
       <link>https://axelera.ai/careers</link>
       <description>Netherlands; Belgium; France; Germany; Greece; Italy; Portugal; Romania; Spain; (hybrid/remote) Full Time</description>
       <guid isPermaLink="false">1eca89fb0aa91ba6fda417c414fa3b16</guid>
-    </item>
-    <item>
-      <title>Automotive Application Engineer</title>
-      <link>https://axelera.ai/careers</link>
-      <guid isPermaLink="false">0c724f9cfa37eb9cab574369ce828a20</guid>
     </item>
     <item>
       <title>Staff/Principal Software Engineer – AI Applications</title>
