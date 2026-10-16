@@ -6,7 +6,12 @@
     <description>Latest job offers at Axelera AI</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Oct 2026 10:46:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 10:35:24 +0000</lastBuildDate>
+    <item>
+      <title>Partner Marketing Manager, Global Accounts</title>
+      <link>https://axelera.ai/careers</link>
+      <guid isPermaLink="false">a485446f7bcc4ce6607280c955be4802</guid>
+    </item>
     <item>
       <title>Director of Sales - Enterprise AI</title>
       <link>https://axelera.ai/careers</link>
